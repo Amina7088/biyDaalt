@@ -1,0 +1,69 @@
+{
+  "english words": [
+    {
+      "question": "A person who travels in a spacecraft",
+      "answer": "Astronaut",
+      "totalAttempts": 0,
+      "correctCount": 0,
+      "lastWrong": false
+    },
+    {
+      "question": "Courageous",
+      "answer": "brave",
+      "totalAttempts": 0,
+      "correctCount": 0,
+      "lastWrong": false
+    },
+    {
+      "question": "Enormous",
+      "answer": "huge",
+      "totalAttempts": 0,
+      "correctCount": 0,
+      "lastWrong": false
+    }
+  ],
+  "machine learning": [
+    {
+      "question": "Algorithm used for classification by finding a hyperplane",
+      "answer": "SVM",
+      "totalAttempts": 1,
+      "correctCount": 1,
+      "lastWrong": false
+    },
+    {
+      "question": "Measure of impurity used in Decision Trees",
+      "answer": "entropy",
+      "totalAttempts": 1,
+      "correctCount": 1,
+      "lastWrong": false
+    },
+    {
+      "question": "Reducing dimensions while keeping important info",
+      "answer": "PCA",
+      "totalAttempts": 1,
+      "correctCount": 1,
+      "lastWrong": false
+    },
+    {
+      "question": "Process of cleaning and preparing raw data",
+      "answer": "preprocessing",
+      "totalAttempts": 2,
+      "correctCount": 1,
+      "lastWrong": false
+    },
+    {
+      "question": "Metric for classification: TP / (TP + FP)",
+      "answer": "precision",
+      "totalAttempts": 2,
+      "correctCount": 1,
+      "lastWrong": false
+    },
+    {
+      "question": "Metric for classification: TP / (TP + FN)",
+      "answer": "recall",
+      "totalAttempts": 1,
+      "correctCount": 1,
+      "lastWrong": false
+    }
+  ]
+}
