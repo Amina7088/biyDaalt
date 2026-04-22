@@ -1,6 +1,7 @@
 package mn.sict;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 
 public class RecentMistakesFirstSorter implements CardOrganizer {
@@ -17,6 +18,8 @@ public class RecentMistakesFirstSorter implements CardOrganizer {
                 rest.add(card);
             }
         }
+
+        Collections.reverse(wrongLast);
 
         List<Card> result = new ArrayList<>();
         result.addAll(wrongLast);

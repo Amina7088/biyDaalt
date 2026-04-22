@@ -1,0 +1,223 @@
+2026.04.22 13:54:53 INFO  Started: Metals version 1.6.7 in folders 'D:\OneDrive\school\2\B\Buteelt\code\biyDaalt' for client Visual Studio Code 1.116.0.
+2026.04.22 13:54:53 INFO  Memory monitor started
+2026.04.22 13:54:55 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.04.22 13:54:55 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 13:54:57 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 13:55:44 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 13:55:51 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 13:55:52 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 13:55:52 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 13:55:52 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 13:55:53 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 13:55:53 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 13:55:55 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 13:55:55 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 13:55:55 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 13:55:55 WARN  no build target for: D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java
+Apr 22, 2026 1:55:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18
+2026.04.22 13:55:56 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+Apr 22, 2026 1:55:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 19
+2026.04.22 13:55:56 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 13:55:59 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 13:55:59 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 13:56:01 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 13:56:15 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 13:56:16 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 13:58:46 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 13:58:46 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 13:58:46 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 13:58:48 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 13:58:48 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+Apr 22, 2026 1:58:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 35
+2026.04.22 13:58:48 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 13:58:48 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 13:58:50 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 13:58:50 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 13:58:50 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 13:58:53 WARN  no build target for: D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java
+2026.04.22 13:58:53 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 13:58:54 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 13:58:54 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 13:58:56 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 13:58:57 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 13:58:57 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 14:00:01 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 14:00:01 WARN  no build target for: D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java
+2026.04.22 14:00:01 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 14:00:01 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 14:00:02 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 14:00:01 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 14:00:02 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 14:00:02 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 14:00:15 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 14:00:15 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 14:00:15 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 14:00:15 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+Apr 22, 2026 2:00:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 68
+2026.04.22 14:00:16 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 14:00:16 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 14:00:18 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 14:03:25 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 14:03:25 WARN  no build target for: D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java
+2026.04.22 14:03:25 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+Apr 22, 2026 2:03:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 78
+2026.04.22 14:03:25 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 14:03:25 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 14:03:26 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 14:03:27 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 14:03:28 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 14:03:28 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 14:03:30 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 14:03:38 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:03:38 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:03:38 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:03:58 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:04:00 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:04:06 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:04:06 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:04:07 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:04:13 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:05:52 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:05:54 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+Apr 22, 2026 2:05:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 132
+2026.04.22 14:05:54 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:05:55 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:05:55 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:06:33 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:06:33 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:06:36 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:06:36 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:06:38 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:06:38 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:07:19 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:07:19 WARN  no build target for: D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java
+2026.04.22 14:07:19 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:07:19 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:07:19 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:07:20 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 14:07:20 WARN  no build target for: D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java
+2026.04.22 14:07:20 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 14:07:20 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 14:07:21 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 14:07:22 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 14:07:22 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 14:07:22 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 14:07:22 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 14:07:23 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 14:07:23 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 14:07:23 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+Apr 22, 2026 2:07:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 167
+2026.04.22 14:07:24 WARN  no build target for: D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java
+2026.04.22 14:07:24 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 14:07:23 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 14:07:27 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 14:07:27 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 14:07:29 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 14:07:34 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 14:07:34 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 14:07:38 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:07:38 WARN  no build target for: D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java
+2026.04.22 14:07:38 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:07:39 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:07:38 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:07:40 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:07:40 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:07:40 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:07:40 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:07:41 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:07:41 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:07:43 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:07:43 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:07:43 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:07:43 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:07:44 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:07:46 WARN  no build target for: D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java
+2026.04.22 14:07:46 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:10:21 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:10:21 WARN  no build target for: D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java
+2026.04.22 14:10:22 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:10:27 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:10:27 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:10:27 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:10:27 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:10:29 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:10:29 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:10:44 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 14:10:44 WARN  no build target for: D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java
+2026.04.22 14:10:44 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 14:10:44 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 14:10:44 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 14:10:45 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 14:10:45 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 14:10:46 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 14:10:46 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 14:10:46 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 14:10:48 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 14:10:48 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 14:11:01 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:11:01 WARN  no build target for: D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java
+2026.04.22 14:11:01 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:11:01 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:11:02 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:11:03 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:11:03 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:11:04 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:11:04 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:11:06 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:11:06 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:11:06 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:11:06 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:11:51 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 14:11:52 WARN  no build target for: D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java
+2026.04.22 14:11:52 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 14:11:59 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:11:59 WARN  no build target for: D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java
+2026.04.22 14:11:59 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:11:59 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:11:59 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:11:59 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:12:01 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:12:03 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:12:03 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:12:25 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:12:25 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:12:25 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:12:25 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:12:26 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:12:26 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:12:26 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:12:27 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:12:26 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:12:26 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:12:45 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:12:45 WARN  no build target for: D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java
+2026.04.22 14:12:45 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:12:45 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:12:46 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:12:47 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 14:12:47 WARN  no build target for: D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java
+2026.04.22 14:12:47 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 14:12:50 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 14:12:54 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 14:12:54 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 14:12:54 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 14:12:59 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 14:13:00 WARN  no build target for: D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java
+2026.04.22 14:13:00 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\Main.java. Using fallback presentation compiler.
+2026.04.22 14:13:01 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:13:01 WARN  no build target for: D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java
+2026.04.22 14:13:01 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:13:01 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:13:01 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:13:01 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:13:02 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:13:03 WARN  no build target for: D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java
+2026.04.22 14:13:03 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.
+2026.04.22 14:13:56 INFO  no build target found for D:\OneDrive\school\2\B\Buteelt\code\biyDaalt\flashcard-system\src\main\java\mn\sict\RecentMistakesFirstSorter.java. Using fallback presentation compiler.

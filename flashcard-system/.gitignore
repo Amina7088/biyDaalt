@@ -3,3 +3,9 @@ target/
 .settings/
 .project
 .classpath
+.metals/
+.bloop/
+.bsp/
+target/
+out/
+*.db

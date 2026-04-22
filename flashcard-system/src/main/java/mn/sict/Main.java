@@ -1,10 +1,14 @@
 package mn.sict;
 
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Map;
+import java.util.Scanner;
+import java.util.concurrent.Callable;
+
 import picocli.CommandLine;
 import picocli.CommandLine.Command;
 import picocli.CommandLine.Option;
-import java.util.*;
-import java.util.concurrent.Callable;
 
 @Command(name = "flashcard", mixinStandardHelpOptions = true, 
          version = "flashcard 2.5",
@@ -41,23 +45,23 @@ public class Main implements Callable<Integer> {
             try {
                 mode = Integer.parseInt(choice);
             } catch (NumberFormatException e) {
-                System.out.println("❌ Invalid input. Please enter 1, 2, or 3.");
+                System.out.println(" Invalid input. Please enter 1, 2, or 3.");
                 continue;
             }
 
             if (mode == 3) {
-                System.out.println("Goodbye! Happy learning! 👋");
+                System.out.println("Goodbye! Happy learning! ");
                 running = false;
                 break;
             }
 
             String selectedDeckName = "";
             if (allDecks.isEmpty() && mode == 1) {
-                System.out.println("⚠️ No decks found! Please create a deck first.");
+                System.out.println("No decks found! Please create a deck first.");
                 mode = 2; 
             }
 
-            // Багц сонгох хэсэг
+  
             if (mode == 1 || mode == 2) {
                 if (allDecks.isEmpty()) {
                     System.out.print("Enter name for your first deck: ");
@@ -95,7 +99,6 @@ public class Main implements Callable<Integer> {
                 List<Card> currentCards = allDecks.get(selectedDeckName);
 
                 if (mode == 2) {
-                    // --- EDIT / ADD MODE ---
                     boolean adding = true;
                     while (adding) {
                         System.out.print("\nQuestion: ");
